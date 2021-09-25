@@ -1,0 +1,8 @@
+-đỗ dữ liệu vào trang request api
+-Sử dụng router để nhúng các trang chức năng vào layout: chi tiết sp, form đăng nhập, giỏ hàng.
+-hiển thị sản phẩm theo loại
+-giỏ hàng xóa tổng tiền
+-đăng nhập bằng google 
+-chức năng bình luận
+-thich san pham
+-san pham noi bat, san pham moi
